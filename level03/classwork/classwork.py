@@ -1,4 +1,5 @@
-message = "game over"
+tate  = "game over"
 
 
-print("game over")
+print("tate")
+
