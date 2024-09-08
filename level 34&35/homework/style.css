@@ -1,0 +1,201 @@
+.wow {
+    color: rgb(5, 113, 237);
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(70, 3, 3, 0.412);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h {
+    color: rgb(161, 14, 240);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.A {
+    color: rgb(197, 246, 1);
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.E {
+    color: rgb(232, 50, 252);
+    font-size: 0.9em;
+    text-align: center;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+
+.F {
+    color: rgb(128, 224, 141);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Georgia,  serif;
+}
+
+.n {
+    color: rgb(249, 2, 2);
+    font-size: 0.9em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.N {
+    color: rgba(255, 2, 175, 0.684);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+}
+
+
+
+
+
+body {
+    background-color: rgba(255, 255, 255, 0.89);
+}
+
+
+header {
+    text-align: center;
+}
+
+
+
+.kk {
+    color: rgb(253, 129, 4);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+.OO {
+    color: rgb(14, 240, 225);
+    font-size: 1.9em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.T {
+    color: rgb(226, 225, 131);
+    font-size: 1.8em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.b {
+    color: rgb(233, 59, 166);
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.O {
+    color: rgb(243, 51, 80);
+    font-size: 1.8em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.t {
+    color: rgb(37, 243, 5);
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.the-gentlemen {
+
+    color: rgb(243, 227, 5);
+    font-size: 1.9m;
+
+}
+
+
+.WIC {
+
+    color: rgba(240, 97, 205, 0.759);
+    font-size: 1.3em;
+
+}
+
+.KED {
+
+    color: rgba(14, 135, 20, 0.866);
+    font-size: 1.3em;
+}
+
+
+.KRAVEN {
+
+    color: rgb(126, 124, 14);
+}
+ 
+
+
+
+.Class {
+
+    color: rgb(18, 124, 200);
+    font-size: 1.3em;
+}
+
+.Special {
+
+    color: rgb(160, 104, 20);
+    font-size: 1.3em;
+} 
+
+
+
+.ll {
+    color: rgb(253, 129, 4);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+.image-row {
+    display: flex;
+    gap: 90px; 
+}
+.image-row img {
+    display: flex;
+    max-width: 900px;
+}
+
+
+
+
+
+
+
+
+.first {
+
+    color: rgba(129, 210, 153, 0.684);
+}
+
+
+
+
+
+
+
+
+footer {
+    background: #68113a;
+    color: #fff;
+    text-align: center;
+    padding: 0.001px ;
+}
