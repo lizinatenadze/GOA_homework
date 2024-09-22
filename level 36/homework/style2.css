@@ -1,0 +1,617 @@
+.wow {
+    color: rgb(5, 113, 237);
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(70, 3, 3, 0.412);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.M{
+    color: rgb(7, 141, 146);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.O {
+    color: rgb(130, 22, 187);
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.V {
+    color: rgb(202, 85, 85);
+    font-size: 0.9em;
+    text-align: center;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+
+.I {
+    color: rgb(45, 68, 151);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Georgia,  serif;
+}
+
+.E {
+    color: rgb(230, 233, 15);
+    font-size: 0.9em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.S {
+    color: rgba(7, 114, 177, 0.784);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+}
+
+
+.LL {
+
+    color: rgb(211, 82, 56);
+    font-size: 2m;
+
+}
+
+.cc {
+
+    color: rgb(219, 206, 27);
+    font-size: 2m;
+
+}
+
+.pp {
+
+    color: rgb(39, 184, 237);
+    font-size: 2m;
+
+}
+
+.nn {
+
+    color: rgb(22, 11, 147);
+    font-size: 2m;
+
+}
+
+.aa {
+
+    color: rgb(205, 112, 88);
+    font-size: 2m;
+
+}
+
+
+.jj {
+
+    color: rgb(224, 32, 32);
+    font-size: 2m;
+
+}
+
+
+
+.tt {
+
+    color: rgb(111, 197, 210);
+    font-size: 2m;
+
+}
+
+
+.ee {
+
+    color: rgb(224, 231, 23);
+    font-size: 2m;
+
+}
+
+.QQ {
+
+    color: rgb(4, 16, 84);
+    font-size: 2m;
+
+}
+
+
+.YY {
+
+    color: rgb(205, 7, 250);
+    font-size: 2m;
+
+}
+
+
+
+.MM {
+
+    color: rgb(223, 68, 202);
+    font-size: 2m;
+
+}
+
+
+.MM {
+
+    color: rgb(223, 68, 202);
+    font-size: 2m;
+
+}
+
+.WW {
+
+    color: rgb(200, 139, 230);
+    font-size: 2m;
+
+}
+
+.GG {
+
+    color: rgb(228, 10, 42);
+    font-size: 2m;
+
+}
+
+
+
+.KK {
+
+    color: rgb(71, 169, 238);
+    font-size: 2m;
+
+}
+
+
+.OO {
+
+    color: rgb(223, 78, 136);
+    font-size: 2m;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image___row {
+    display: flex;
+    gap: 108px; 
+}
+.image___row img {
+    display: flex;
+    max-width: 900px;
+}
+
+
+
+
+
+
+.image___row {
+    display: flex;
+    gap: 108px; 
+}
+.image___row img {
+    display: flex;
+    max-width: 900px;
+}
+
+
+
+.ll {
+    color: rgb(253, 129, 4);
+    font-size: 1.7em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+.wow {
+    color: rgb(5, 113, 237);
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(70, 3, 3, 0.412);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h {
+    color: rgb(161, 14, 240);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.A {
+    color: rgb(197, 246, 1);
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.E {
+    color: rgb(232, 50, 252);
+    font-size: 0.9em;
+    text-align: center;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+
+.F {
+    color: rgb(128, 224, 141);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Georgia,  serif;
+}
+
+.n {
+    color: rgb(249, 2, 2);
+    font-size: 0.9em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.N {
+    color: rgba(255, 2, 175, 0.684);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+}
+
+
+
+.first {
+
+    color: rgba(72, 82, 226, 0.684);
+}
+
+
+footer {
+    background: #e40a70;
+    color: #fff;
+    text-align: center;
+    padding: 0.01px ;
+}
+
+.image-row {
+    display: flex;
+    gap: 95px; 
+}
+.image-row img {
+    display: flex;
+    max-width: 900px;
+}.wow {
+    color: rgb(5, 113, 237);
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(70, 3, 3, 0.412);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.M{
+    color: rgb(7, 141, 146);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.O {
+    color: rgb(130, 22, 187);
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.V {
+    color: rgb(202, 85, 85);
+    font-size: 0.9em;
+    text-align: center;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+
+.I {
+    color: rgb(45, 68, 151);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Georgia,  serif;
+}
+
+.E {
+    color: rgb(230, 233, 15);
+    font-size: 0.9em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.S {
+    color: rgba(7, 114, 177, 0.784);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+}
+
+
+.LL {
+
+    color: rgb(211, 82, 56);
+    font-size: 2m;
+
+}
+
+.cc {
+
+    color: rgb(219, 206, 27);
+    font-size: 2m;
+
+}
+
+.pp {
+
+    color: rgb(39, 184, 237);
+    font-size: 2m;
+
+}
+
+.nn {
+
+    color: rgb(22, 11, 147);
+    font-size: 2m;
+
+}
+
+.aa {
+
+    color: rgb(205, 112, 88);
+    font-size: 2m;
+
+}
+
+
+.jj {
+
+    color: rgb(224, 32, 32);
+    font-size: 2m;
+
+}
+
+
+
+.tt {
+
+    color: rgb(111, 197, 210);
+    font-size: 2m;
+
+}
+
+
+.ee {
+
+    color: rgb(224, 231, 23);
+    font-size: 2m;
+
+}
+
+.QQ {
+
+    color: rgb(4, 16, 84);
+    font-size: 2m;
+
+}
+
+
+.YY {
+
+    color: rgb(205, 7, 250);
+    font-size: 2m;
+
+}
+
+
+
+.MM {
+
+    color: rgb(223, 68, 202);
+    font-size: 2m;
+
+}
+
+
+.MM {
+
+    color: rgb(223, 68, 202);
+    font-size: 2m;
+
+}
+
+.WW {
+
+    color: rgb(200, 139, 230);
+    font-size: 2m;
+
+}
+
+.GG {
+
+    color: rgb(228, 10, 42);
+    font-size: 2m;
+
+}
+
+
+
+.KK {
+
+    color: rgb(71, 169, 238);
+    font-size: 2m;
+
+}
+
+
+.OO {
+
+    color: rgb(223, 78, 136);
+    font-size: 2m;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image___row {
+    display: flex;
+    gap: 108px; 
+}
+.image___row img {
+    display: flex;
+    max-width: 900px;
+}
+
+
+
+
+
+
+.image___row {
+    display: flex;
+    gap: 108px; 
+}
+.image___row img {
+    display: flex;
+    max-width: 900px;
+}
+
+
+
+.ll {
+    color: rgb(253, 129, 4);
+    font-size: 1.7em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+.wow {
+    color: rgb(5, 113, 237);
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(70, 3, 3, 0.412);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h {
+    color: rgb(161, 14, 240);
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.A {
+    color: rgb(197, 246, 1);
+    font-size: 0.8em;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+.E {
+    color: rgb(232, 50, 252);
+    font-size: 0.9em;
+    text-align: center;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+
+.F {
+    color: rgb(128, 224, 141);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: Georgia,  serif;
+}
+
+.n {
+    color: rgb(249, 2, 2);
+    font-size: 0.9em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.N {
+    color: rgba(255, 2, 175, 0.684);
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI',  Verdana, sans-serif;
+}
+
+
+
+.first {
+
+    color: rgba(72, 82, 226, 0.684);
+}
+
+
+footer {
+    background: #e40a70;
+    color: #fff;
+    text-align: center;
+    padding: 0.01px ;
+}
+
+.image-row {
+    display: flex;
+    gap: 95px; 
+}
+.image-row img {
+    display: flex;
+    max-width: 900px;
+}

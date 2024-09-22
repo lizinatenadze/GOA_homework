@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://storage.georgia.travel/images/tbilisi-picture.webp");
+    background-size: cover;
+}
+
+
+.button1{
+    color: green;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: small;
+    background-color: black;
+    cursor: pointer;
+
+}
+.button2{
+    color: green;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: smaller;
+    background-color: black;
+    cursor: pointer;;
+   
+
+}
+.button3{
+    color: green;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: small;
+    background-color: black;
+    cursor: pointer;
+    
+}
+
+.button4{
+    color: green;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: small;
+    background-color: black;
+    cursor: pointer;
+}
+

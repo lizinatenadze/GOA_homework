@@ -1,0 +1,29 @@
+body{
+    background-color: wheat;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(92, 61, 216);
+    }
+    
+    .bakuriani{
+        color: rgba(0, 0, 0, 0.6);
+        text-align: center;
+        font-size: 1.5em;
+    }
+    
+    .wow{
+        color: rgb(218, 134, 134);
+        text-align: center;
+        background-color: rgb(9, 1, 18);
+        font-size: 1.5em;
+    }
+    
+    .whatt {
+    
+        color: rgba(181, 14, 14, 0.6);
+        text-align: center;
+        font-size: 1em;
+    }
